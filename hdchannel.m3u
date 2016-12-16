@@ -1,0 +1,1157 @@
+#EXTM3U
+#EXTINF:0,Rai 1 @ 177 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3401
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i1:DDvbT:f177500:mofdm:N318:T1:S3401:E0:b7000:a1;-1;0:L1:q99:Q2032:nRai+1&profile=&stid=751676866
+#EXTINF:0,Rai 2 @ 177 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3402
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i2:DDvbT:f177500:mofdm:N318:T1:S3402:E0:b7000:a1;-1;0:L2:q99:Q2032:nRai+2&profile=&stid=751676866
+#EXTINF:0,Rai 3 TGR Veneto @ 177 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3403
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i3:DDvbT:f177500:mofdm:N318:T1:S3403:E0:b7000:a1;-1;0:L3:q99:Q2032:nRai+3+TGR+Veneto&profile=&stid=751676866
+#EXTINF:0,Rai News 24 @ 177 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3411
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i4:DDvbT:f177500:mofdm:N318:T1:S3411:E0:b7000:a1;-1;0:L48:q99:Q2032:nRai+News+24&profile=&stid=751676866
+#EXTINF:0,Rai 3 TGR Emilia Romagna @ 177 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3412
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i5:DDvbT:f177500:mofdm:N318:T1:S3412:E0:b7000:a1;-1;0:L101:q99:Q2032:nRai+3+TGR+Emilia+Romagna&profile=&stid=751676866
+#EXTINF:0,CANALE 77 @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=101
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i6:DDvbT:f482000:mofdm:N8572:T14127:S101:E3:b8000:a1;-1;0:L77:q99:Q2224:nCANALE+77&profile=&stid=751676866
+#EXTINF:0,GIOCA TV.IT @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=102
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i7:DDvbT:f482000:mofdm:N8572:T14127:S102:E1:b8000:a1;-1;0:L613:q99:Q2224:nGIOCA+TV.IT&profile=&stid=751676866
+#EXTINF:0,7 GOLD PLUS @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=103
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i8:DDvbT:f482000:mofdm:N8572:T14127:S103:E3:b8000:a1;-1;0:q99:Q2224:n7+GOLD+PLUS&profile=&stid=751676866
+#EXTINF:0,CAFE' TV 24 @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=105
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i9:DDvbT:f482000:mofdm:N8572:T14127:S105:E1:b8000:a1;-1;0:q99:Q2224:nCAFE%27+TV+24&profile=&stid=751676866
+#EXTINF:0,CANALE 68 VENETO @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=108
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i10:DDvbT:f482000:mofdm:N8572:T14127:S108:E1:b8000:a1;-1;0:L72:q99:Q2224:nCANALE+68+VENETO&profile=&stid=751676866
+#EXTINF:0,CANALE 77 +1 @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=109
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i11:DDvbT:f482000:mofdm:N8572:T14127:S109:E1:b8000:a1;-1;0:L285:q99:Q2224:nCANALE+77+%2b1&profile=&stid=751676866
+#EXTINF:0,VETRINA 7 GOLD @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=110
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i12:DDvbT:f482000:mofdm:N8572:T14127:S110:E1:b8000:a1;-1;0:L227:q99:Q2224:nVETRINA+7+GOLD&profile=&stid=751676866
+#EXTINF:0,CAFE' TV 24 @ 482 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=113
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i13:DDvbT:f482000:mofdm:N8572:T14127:S113:E1:b8000:a1;-1;0:q99:Q2224:nCAFE%27+TV+24&profile=&stid=751676866
+#EXTINF:0,A3 - TVision @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51201
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i14:DDvbT:f490000:mofdm:N8572:T12333:S51201:E0:b8000:a1;-1;0:L13:q99:Q2336:nA3+-+TVision&profile=&stid=751676866
+#EXTINF:0,INFO TV @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51202
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i15:DDvbT:f490000:mofdm:N8572:T12333:S51202:E0:b8000:a1;-1;0:L85:q99:Q2336:nINFO+TV&profile=&stid=751676866
+#EXTINF:0,Telenuovo Padova @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51203
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i16:DDvbT:f490000:mofdm:N8572:T12333:S51203:E0:b8000:a1;-1;0:L11:q99:Q2336:nTelenuovo+Padova&profile=&stid=751676866
+#EXTINF:0,TNV 117 @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51204
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i17:DDvbT:f490000:mofdm:N8572:T12333:S51204:E0:b8000:a1;-1;0:L117:q99:Q2336:nTNV+117&profile=&stid=751676866
+#EXTINF:0,Telenuovo Verona @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51205
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i18:DDvbT:f490000:mofdm:N8572:T12333:S51205:E0:b8000:a1;-1;0:L292:q99:Q2336:nTelenuovo+Verona&profile=&stid=751676866
+#EXTINF:0,ITV Italia @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51207
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i19:DDvbT:f490000:mofdm:N8572:T12333:S51207:E0:b8000:a1;-1;0:L165:q99:Q2336:nITV+Italia&profile=&stid=751676866
+#EXTINF:0,tva vicenza @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51208
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i20:DDvbT:f490000:mofdm:N8572:T12333:S51208:E0:b8000:a1;-1;0:L10:q99:Q2336:ntva+vicenza&profile=&stid=751676866
+#EXTINF:0,Company TV @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51209
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i21:DDvbT:f490000:mofdm:N8572:T12333:S51209:E0:b8000:a1;-1;0:L119:q99:Q2336:nCompany+TV&profile=&stid=751676866
+#EXTINF:0,telechiara @ 490 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51214
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i22:DDvbT:f490000:mofdm:N8572:T12333:S51214:E0:b8000:a1;-1;0:L14:q99:Q2336:ntelechiara&profile=&stid=751676866
+#EXTINF:0,Test @ 506 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=701
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i23:DDvbT:f506000:mofdm:N8572:T263:S701:E1:b8000:a1;-1;0:q99:Q2224:nTest&profile=&stid=751676866
+#EXTINF:0,La7 HD @ 506 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=751
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i24:DDvbT:f506000:mofdm:N8572:T263:S751:E1:b8000:a1;-1;0:L507:q99:Q2224:nLa7+HD&profile=&stid=751676866
+#EXTINF:0,La7d HD @ 506 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=752
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i25:DDvbT:f506000:mofdm:N8572:T263:S752:E1:b8000:a1;-1;0:L529:q99:Q2224:nLa7d+HD&profile=&stid=751676866
+#EXTINF:0,Rai Premium @ 514 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8581
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i26:DDvbT:f514000:mofdm:N318:T4:S8581:E0:b8000:a1;-1;0:L25:q99:Q2256:nRai+Premium&profile=&stid=751676866
+#EXTINF:0,Rai yoyo @ 514 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8582
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i27:DDvbT:f514000:mofdm:N318:T4:S8582:E0:b8000:a1;-1;0:L43:q99:Q2256:nRai+yoyo&profile=&stid=751676866
+#EXTINF:0,Rai 4 @ 514 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8583
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i28:DDvbT:f514000:mofdm:N318:T4:S8583:E0:b8000:a1;-1;0:L21:q99:Q2256:nRai+4&profile=&stid=751676866
+#EXTINF:0,Rai Gulp @ 514 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8584
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i29:DDvbT:f514000:mofdm:N318:T4:S8584:E0:b8000:a1;-1;0:L42:q99:Q2256:nRai+Gulp&profile=&stid=751676866
+#EXTINF:0,Rai Movie @ 514 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8585
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i30:DDvbT:f514000:mofdm:N318:T4:S8585:E0:b8000:a1;-1;0:L24:q99:Q2256:nRai+Movie&profile=&stid=751676866
+#EXTINF:0,Rai Scuola @ 514 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8586
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i31:DDvbT:f514000:mofdm:N318:T4:S8586:E0:b8000:a1;-1;0:L146:q99:Q2256:nRai+Scuola&profile=&stid=751676866
+#EXTINF:0,DTV @ 522 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i32:DDvbT:f522000:mofdm:N8572:T78:S5:E0:b8000:a1;-1;0:L179:q99:Q2432:nDTV&profile=&stid=751676866
+#EXTINF:0,La 8 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i33:DDvbT:f530000:mofdm:N8572:T12399:S1:E0:b8000:a1;-1;0:L81:q99:Q1952:nLa+8&profile=&stid=751676866
+#EXTINF:0,La 9 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i34:DDvbT:f530000:mofdm:N8572:T12399:S2:E0:b8000:a1;-1;0:L76:q99:Q1952:nLa+9&profile=&stid=751676866
+#EXTINF:0,LA 9 NORD @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i35:DDvbT:f530000:mofdm:N8572:T12399:S3:E0:b8000:a1;-1;0:L174:q99:Q1952:nLA+9+NORD&profile=&stid=751676866
+#EXTINF:0,DONNA ITALIA @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i36:DDvbT:f530000:mofdm:N8572:T12399:S5:E0:b8000:a1;-1;0:L192:q99:Q1952:nDONNA+ITALIA&profile=&stid=751676866
+#EXTINF:0,Prima Free TV @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i37:DDvbT:f530000:mofdm:N8572:T12399:S6:E0:b8000:a1;-1;0:L91:q99:Q1952:nPrima+Free+TV&profile=&stid=751676866
+#EXTINF:0,Primarete 184 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i38:DDvbT:f530000:mofdm:N8572:T12399:S8:E0:b8000:a1;-1;0:L184:q99:Q1952:nPrimarete+184&profile=&stid=751676866
+#EXTINF:0,Odeon 24 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=9
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i39:DDvbT:f530000:mofdm:N8572:T12399:S9:E0:b8000:a1;-1;0:L177:q99:Q1952:nOdeon+24&profile=&stid=751676866
+#EXTINF:0,MATRIX TV ITALIA @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=10
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i40:DDvbT:f530000:mofdm:N8572:T12399:S10:E0:b8000:a1;-1;0:L824:q99:Q1952:nMATRIX+TV+ITALIA&profile=&stid=751676866
+#EXTINF:0,LA 9 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=13
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i41:DDvbT:f530000:mofdm:N8572:T12399:S13:E0:b8000:a1;-1;0:L607:q99:Q1952:nLA+9&profile=&stid=751676866
+#EXTINF:0,232 ITALIA @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=14
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i42:DDvbT:f530000:mofdm:N8572:T12399:S14:E0:b8000:a1;-1;0:L232:q99:Q1952:n232+ITALIA&profile=&stid=751676866
+#EXTINF:0,Donna Italia @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=15
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i43:DDvbT:f530000:mofdm:N8572:T12399:S15:E0:b8000:a1;-1;0:L169:q99:Q1952:nDonna+Italia&profile=&stid=751676866
+#EXTINF:0,ARTE MODA @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=17
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i44:DDvbT:f530000:mofdm:N8572:T12399:S17:E0:b8000:a1;-1;0:L168:q99:Q1952:nARTE+MODA&profile=&stid=751676866
+#EXTINF:0,CANALE 151 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=18
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i45:DDvbT:f530000:mofdm:N8572:T12399:S18:E0:b8000:a1;-1;0:L151:q99:Q1952:nCANALE+151&profile=&stid=751676866
+#EXTINF:0,PRIMA FREE @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=21
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i46:DDvbT:f530000:mofdm:N8572:T12399:S21:E0:b8000:a1;-1;0:L116:q99:Q1952:nPRIMA+FREE&profile=&stid=751676866
+#EXTINF:0,OK SHOP @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=22
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i47:DDvbT:f530000:mofdm:N8572:T12399:S22:E1:b8000:a1;-1;0:L74:q99:Q1952:nOK+SHOP&profile=&stid=751676866
+#EXTINF:0,ROMIO @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=23
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i48:DDvbT:f530000:mofdm:N8572:T12399:S23:E0:b8000:a1;-1;0:L298:q99:Q1952:nROMIO&profile=&stid=751676866
+#EXTINF:0,RETE 82 @ 530 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=82
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i49:DDvbT:f530000:mofdm:N8572:T12399:S82:E0:b8000:a1;-1;0:L82:q99:Q1952:nRETE+82&profile=&stid=751676866
+#EXTINF:0,TV7 TRIVENETA NET @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i50:DDvbT:f538000:mofdm:N8572:T12:S1:E0:b8000:a1;-1;0:L12:q99:Q2288:nTV7+TRIVENETA+NET&profile=&stid=751676866
+#EXTINF:0,TV7 TOPKAR @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i51:DDvbT:f538000:mofdm:N8572:T12:S2:E0:b8000:a1;-1;0:L213:q99:Q2288:nTV7+TOPKAR&profile=&stid=751676866
+#EXTINF:0,TV7 LADY @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i52:DDvbT:f538000:mofdm:N8572:T12:S3:E0:b8000:a1;-1;0:L615:q99:Q2288:nTV7+LADY&profile=&stid=751676866
+#EXTINF:0,TV7 TRIVENETA NET_2 @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i53:DDvbT:f538000:mofdm:N8572:T12:S4:E0:b8000:a1;-1;0:L999:q99:Q2288:nTV7+TRIVENETA+NET_2&profile=&stid=751676866
+#EXTINF:0,Telestense @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i54:DDvbT:f538000:mofdm:N8572:T12:S5:E0:b8000:a1;-1;0:L113:q99:Q2288:nTelestense&profile=&stid=751676866
+#EXTINF:0,TV7 NEWS @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=9
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i55:DDvbT:f538000:mofdm:N8572:T12:S9:E0:b8000:a1;-1;0:L87:q99:Q2288:nTV7+NEWS&profile=&stid=751676866
+#EXTINF:0,TV7 AZZURRA @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=11
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i56:DDvbT:f538000:mofdm:N8572:T12:S11:E0:b8000:a1;-1;0:L88:q99:Q2288:nTV7+AZZURRA&profile=&stid=751676866
+#EXTINF:0,TV7 TRIVENETA FVG @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=14
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i57:DDvbT:f538000:mofdm:N8572:T12:S14:E0:b8000:a1;-1;0:L89:q99:Q2288:nTV7+TRIVENETA+FVG&profile=&stid=751676866
+#EXTINF:0,TELECAMPIONE @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=15
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i58:DDvbT:f538000:mofdm:N8572:T12:S15:E0:b8000:a1;-1;0:L75:q99:Q2288:nTELECAMPIONE&profile=&stid=751676866
+#EXTINF:0,Super Game TV @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=104
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i59:DDvbT:f538000:mofdm:N8572:T12:S104:E0:b8000:a1;-1;0:L287:q99:Q2288:nSuper+Game+TV&profile=&stid=751676866
+#EXTINF:0,Telesanterno @ 538 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1001
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i60:DDvbT:f538000:mofdm:N8572:T12:S1001:E0:b8000:a1;-1;0:L114:q99:Q2288:nTelesanterno&profile=&stid=751676866
+#EXTINF:0,Rai Sport 1 @ 546 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8561
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i61:DDvbT:f546000:mofdm:N318:T2:S8561:E0:b8000:a1;-1;0:L57:nRai+Sport+1&profile=&stid=751676866
+#EXTINF:0,Rai Sport 2 @ 546 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8562
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i62:DDvbT:f546000:mofdm:N318:T2:S8562:E0:b8000:a1;-1;0:L58:nRai+Sport+2&profile=&stid=751676866
+#EXTINF:0,TV2000 @ 546 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8563
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i63:DDvbT:f546000:mofdm:N318:T2:S8563:E0:b8000:a1;-1;0:L28:nTV2000&profile=&stid=751676866
+#EXTINF:0,Rai 5 @ 546 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8576
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i64:DDvbT:f546000:mofdm:N318:T2:S8576:E0:b8000:a1;-1;0:L23:nRai+5&profile=&stid=751676866
+#EXTINF:0,Rai Storia @ 546 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8577
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i65:DDvbT:f546000:mofdm:N318:T2:S8577:E0:b8000:a1;-1;0:L54:nRai+Storia&profile=&stid=751676866
+#EXTINF:0,STUDIO1 @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i66:DDvbT:f554000:mofdm:N328:T10235:S1:E3:b8000:a1;-1;0:L80:q99:Q1872:nSTUDIO1&profile=&stid=751676866
+#EXTINF:0,RETE79 @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i67:DDvbT:f554000:mofdm:N328:T10235:S2:E0:b8000:a1;-1;0:L79:q99:Q1872:nRETE79&profile=&stid=751676866
+#EXTINF:0,STUDIO LIVE @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i68:DDvbT:f554000:mofdm:N328:T10235:S3:E0:b8000:a1;-1;0:L178:q99:Q1872:nSTUDIO+LIVE&profile=&stid=751676866
+#EXTINF:0,STUDIO1 HD @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i69:DDvbT:f554000:mofdm:N328:T10235:S4:E3:b8000:a1;-1;0:L580:q99:Q1872:nSTUDIO1+HD&profile=&stid=751676866
+#EXTINF:0,RETE79 HD @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i70:DDvbT:f554000:mofdm:N328:T10235:S5:E0:b8000:a1;-1;0:L579:q99:Q1872:nRETE79+HD&profile=&stid=751676866
+#EXTINF:0,UNOMEDIA @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=101
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i71:DDvbT:f554000:mofdm:N328:T10235:S101:E0:b8000:a1;-1;0:L231:q99:Q1872:nUNOMEDIA&profile=&stid=751676866
+#EXTINF:0,QTV @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=102
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i72:DDvbT:f554000:mofdm:N328:T10235:S102:E0:b8000:a1;-1;0:L176:q99:Q1872:nQTV&profile=&stid=751676866
+#EXTINF:0,AMICI ANIMALI TV @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=103
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i73:DDvbT:f554000:mofdm:N328:T10235:S103:E0:b8000:a1;-1;0:L248:q99:Q1872:nAMICI+ANIMALI+TV&profile=&stid=751676866
+#EXTINF:0,GALAXY TV @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=104
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i74:DDvbT:f554000:mofdm:N328:T10235:S104:E0:b8000:a1;-1;0:L183:q99:Q1872:nGALAXY+TV&profile=&stid=751676866
+#EXTINF:0,RETE182 @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=106
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i75:DDvbT:f554000:mofdm:N328:T10235:S106:E0:b8000:a1;-1;0:L182:q99:Q1872:nRETE182&profile=&stid=751676866
+#EXTINF:0,LA3 @ 554 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=107
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i76:DDvbT:f554000:mofdm:N328:T10235:S107:E0:b8000:a1;-1;0:L134:q99:Q1872:nLA3&profile=&stid=751676866
+#EXTINF:0,7 GOLD @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i77:DDvbT:f562000:mofdm:N8572:T14111:S1:E1:b8000:a1;-1;0:L17:q99:Q1936:n7+GOLD&profile=&stid=751676866
+#EXTINF:0,LA 10-CANALE 78 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i78:DDvbT:f562000:mofdm:N8572:T14111:S2:E1:b8000:a1;-1;0:L78:q99:Q1936:nLA+10-CANALE+78&profile=&stid=751676866
+#EXTINF:0,7 GOLD + 1 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i79:DDvbT:f562000:mofdm:N8572:T14111:S3:E1:b8000:a1;-1;0:L185:q99:Q1936:n7+GOLD+%2b+1&profile=&stid=751676866
+#EXTINF:0,7 GOLD PLUS @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i80:DDvbT:f562000:mofdm:N8572:T14111:S4:E1:b8000:a1;-1;0:L92:q99:Q1936:n7+GOLD+PLUS&profile=&stid=751676866
+#EXTINF:0,Telemarket @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i81:DDvbT:f562000:mofdm:N8572:T14111:S5:E1:b8000:a1;-1;0:L124:q99:Q1936:nTelemarket&profile=&stid=751676866
+#EXTINF:0,Telemarket for you @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i82:DDvbT:f562000:mofdm:N8572:T14111:S6:E1:b8000:a1;-1;0:L125:q99:Q1936:nTelemarket+for+you&profile=&stid=751676866
+#EXTINF:0,play.me @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i83:DDvbT:f562000:mofdm:N8572:T14111:S7:E1:b8000:a1;-1;0:L68:q99:Q1936:nplay.me&profile=&stid=751676866
+#EXTINF:0,7 GOLD @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=10
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i84:DDvbT:f562000:mofdm:N8572:T14111:S10:E1:b8000:a1;-1;0:L877:q99:Q1936:n7+GOLD&profile=&stid=751676866
+#EXTINF:0,7 GOLD @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=11
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i85:DDvbT:f562000:mofdm:N8572:T14111:S11:E1:b8000:a1;-1;0:L878:q99:Q1936:n7+GOLD&profile=&stid=751676866
+#EXTINF:0,CANALE 78 + 1 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=12
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i86:DDvbT:f562000:mofdm:N8572:T14111:S12:E1:b8000:a1;-1;0:L198:q99:Q1936:nCANALE+78+%2b+1&profile=&stid=751676866
+#EXTINF:0,CAFE' TV 24 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=13
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i87:DDvbT:f562000:mofdm:N8572:T14111:S13:E1:b8000:a1;-1;0:L95:q99:Q1936:nCAFE%27+TV+24&profile=&stid=751676866
+#EXTINF:0,AGON CHANNEL @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=14
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i88:DDvbT:f562000:mofdm:N8572:T14111:S14:E1:b8000:a1;-1;0:L33:q99:Q1936:nAGON+CHANNEL&profile=&stid=751676866
+#EXTINF:0,R101 TV @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=16
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i89:DDvbT:f562000:mofdm:N8572:T14111:S16:E1:b8000:a1;-1;0:L167:q99:Q1936:nR101+TV&profile=&stid=751676866
+#EXTINF:0,OK ITALIA TV 2 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=17
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i90:DDvbT:f562000:mofdm:N8572:T14111:S17:E1:b8000:a1;-1;0:L170:q99:Q1936:nOK+ITALIA+TV+2&profile=&stid=751676866
+#EXTINF:0,OK ITALIA TV 3 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=18
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i91:DDvbT:f562000:mofdm:N8572:T14111:S18:E1:b8000:a1;-1;0:L225:q99:Q1936:nOK+ITALIA+TV+3&profile=&stid=751676866
+#EXTINF:0,CAFE' TV 24 @ 562 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=19
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i92:DDvbT:f562000:mofdm:N8572:T14111:S19:E1:b8000:a1;-1;0:L666:q99:Q1936:nCAFE%27+TV+24&profile=&stid=751676866
+#EXTINF:0,TELECITTA @ 586 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i93:DDvbT:f586000:mofdm:N8572:T52:S1:E1:b8000:a1;-1;0:L73:q99:Q1728:nTELECITTA&profile=&stid=751676866
+#EXTINF:0,TELECITTA 2 @ 586 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i94:DDvbT:f586000:mofdm:N8572:T52:S2:E1:b8000:a1;-1;0:L194:q99:Q1728:nTELECITTA+2&profile=&stid=751676866
+#EXTINF:0,Tele Pordenone @ 586 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i95:DDvbT:f586000:mofdm:N8572:T52:S7:E1:b8000:a1;-1;0:L97:q99:Q1728:nTele+Pordenone&profile=&stid=751676866
+#EXTINF:0,SPORTELEVISIONVENETO @ 586 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i96:DDvbT:f586000:mofdm:N8572:T52:S8:E0:b8000:a1;-1;0:L193:q99:Q1728:nSPORTELEVISIONVENETO&profile=&stid=751676866
+#EXTINF:0,Boing @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=145
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i97:DDvbT:f594000:mofdm:N272:T905:S145:E1:b8000:a1;-1;0:L40:q99:Q2240:nBoing&profile=&stid=751676866
+#EXTINF:0,Cartoonito @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=147
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i98:DDvbT:f594000:mofdm:N272:T905:S147:E1:b8000:a1;-1;0:L46:q99:Q2240:nCartoonito&profile=&stid=751676866
+#EXTINF:0,Fine Living @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=154
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i99:DDvbT:f594000:mofdm:N272:T905:S154:E1:b8000:a1;-1;0:L49:q99:Q2240:nFine+Living&profile=&stid=751676866
+#EXTINF:0,Rete4 HD @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2104
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i100:DDvbT:f594000:mofdm:N272:T905:S2104:E1:b8000:a1;-1;0:L504:q99:Q2240:nRete4+HD&profile=&stid=751676866
+#EXTINF:0,QVC @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2149
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i101:DDvbT:f594000:mofdm:N272:T905:S2149:E1:b8000:a1;-1;0:L32:q99:Q2240:nQVC&profile=&stid=751676866
+#EXTINF:0,TOPcrime @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2150
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i102:DDvbT:f594000:mofdm:N272:T905:S2150:E1:b8000:a1;-1;0:L39:q99:Q2240:nTOPcrime&profile=&stid=751676866
+#EXTINF:0,Mediaset Italia Due @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2151
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i103:DDvbT:f594000:mofdm:N272:T905:S2151:E1:b8000:a1;-1;0:L35:q99:Q2240:nMediaset+Italia+Due&profile=&stid=751676866
+#EXTINF:0,Mediaset Extra @ 594 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2152
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i104:DDvbT:f594000:mofdm:N272:T905:S2152:E1:b8000:a1;-1;0:L34:q99:Q2240:nMediaset+Extra&profile=&stid=751676866
+#EXTINF:0,Canale5 HD @ 602 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8105
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i105:DDvbT:f602000:mofdm:N272:T810:S8105:E1:b8000:a1;-1;0:L505:q99:Q2272:nCanale5+HD&profile=&stid=751676866
+#EXTINF:0,Italia1 HD @ 602 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8106
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i106:DDvbT:f602000:mofdm:N272:T810:S8106:E1:b8000:a1;-1;0:L506:q99:Q2272:nItalia1+HD&profile=&stid=751676866
+#EXTINF:0,Rai HD @ 626 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8595
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i107:DDvbT:f626000:mofdm:N318:T5:S8595:E0:b8000:a1;-1;0:L501:q99:Q2208:nRai+HD&profile=&stid=751676866
+#EXTINF:0,Rai Sport 1 HD @ 626 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8599
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i108:DDvbT:f626000:mofdm:N318:T5:S8599:E0:b8000:a1;-1;0:L557:q99:Q2208:nRai+Sport+1+HD&profile=&stid=751676866
+#EXTINF:0,TELEVENEZIA @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i109:DDvbT:f634000:mofdm:N8572:T999:S1:E0:b8000:a1;-1;0:L71:q99:Q2240:nTELEVENEZIA&profile=&stid=751676866
+#EXTINF:0,Televenezia @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i110:DDvbT:f634000:mofdm:N8572:T999:S2:E0:b8000:a1;-1;0:q99:Q2240:nTelevenezia&profile=&stid=751676866
+#EXTINF:0,ADRIATICOTV @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i111:DDvbT:f634000:mofdm:N8572:T999:S3:E0:b8000:a1;-1;0:L299:q99:Q2240:nADRIATICOTV&profile=&stid=751676866
+#EXTINF:0,TELEVENEZIA TG @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i112:DDvbT:f634000:mofdm:N8572:T999:S4:E0:b8000:a1;-1;0:L191:q99:Q2240:nTELEVENEZIA+TG&profile=&stid=751676866
+#EXTINF:0,TPN @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i113:DDvbT:f634000:mofdm:N8572:T999:S5:E0:b8000:a1;-1;0:L97:q99:Q2240:nTPN&profile=&stid=751676866
+#EXTINF:0,TELEVENEZIA FILM @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i114:DDvbT:f634000:mofdm:N8572:T999:S6:E0:b8000:a1;-1;0:L672:q99:Q2240:nTELEVENEZIA+FILM&profile=&stid=751676866
+#EXTINF:0,alt! @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i115:DDvbT:f634000:mofdm:N8572:T999:S8:E0:b8000:a1;-1;0:L606:q99:Q2240:nalt%21&profile=&stid=751676866
+#EXTINF:0,TELEROMAGNA @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=9
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i116:DDvbT:f634000:mofdm:N8572:T999:S9:E0:b8000:a1;-1;0:L99:q99:Q2240:nTELEROMAGNA&profile=&stid=751676866
+#EXTINF:0,METROTV @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=10
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i117:DDvbT:f634000:mofdm:N8572:T999:S10:E0:b8000:a1;-1;0:L673:q99:Q2240:nMETROTV&profile=&stid=751676866
+#EXTINF:0,BENESSERETV @ 634 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=11
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i118:DDvbT:f634000:mofdm:N8572:T999:S11:E0:b8000:a1;-1;0:L674:q99:Q2240:nBENESSERETV&profile=&stid=751676866
+#EXTINF:0,TELEQUATTRO @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i119:DDvbT:f642000:mofdm:N8572:T13051:S1:E1:b8000:a1;-1;0:L610:q100:Q2144:nTELEQUATTRO&profile=&stid=751676866
+#EXTINF:0,UDINESE TV @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i120:DDvbT:f642000:mofdm:N8572:T13051:S2:E1:b8000:a1;-1;0:L195:q100:Q2144:nUDINESE+TV&profile=&stid=751676866
+#EXTINF:0,RETE VENETA @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1001
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i121:DDvbT:f642000:mofdm:N8572:T13051:S1001:E1:b8000:a1;-1;0:L18:q100:Q2144:nRETE+VENETA&profile=&stid=751676866
+#EXTINF:0,NORDEST.TV @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1101
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i122:DDvbT:f642000:mofdm:N8572:T13051:S1101:E1:b8000:a1;-1;0:L19:q100:Q2144:nNORDEST.TV&profile=&stid=751676866
+#EXTINF:0,BASSANO TV @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1301
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i123:DDvbT:f642000:mofdm:N8572:T13051:S1301:E1:b8000:a1;-1;0:L186:q100:Q2144:nBASSANO+TV&profile=&stid=751676866
+#EXTINF:0,TREVISO TV @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1401
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i124:DDvbT:f642000:mofdm:N8572:T13051:S1401:E1:b8000:a1;-1;0:L657:q100:Q2144:nTREVISO+TV&profile=&stid=751676866
+#EXTINF:0,PADOVA TV @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1601
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i125:DDvbT:f642000:mofdm:N8572:T13051:S1601:E1:b8000:a1;-1;0:L658:q100:Q2144:nPADOVA+TV&profile=&stid=751676866
+#EXTINF:0,LaVeneta-TopCalcio24 @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1901
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i126:DDvbT:f642000:mofdm:N8572:T13051:S1901:E1:b8000:a1;-1;0:L110:q100:Q2144:nLaVeneta-TopCalcio24&profile=&stid=751676866
+#EXTINF:0,VENEZIA TV @ 642 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2601
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i127:DDvbT:f642000:mofdm:N8572:T13051:S2601:E1:b8000:a1;-1;0:L659:q100:Q2144:nVENEZIA+TV&profile=&stid=751676866
+#EXTINF:0,TvaVicenza @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i128:DDvbT:f650000:mofdm:N8572:T13123:S1:E1:b8000:a1;-1;0:L10:q99:Q2256:nTvaVicenza&profile=&stid=751676866
+#EXTINF:0,Antenna 3 @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i129:DDvbT:f650000:mofdm:N8572:T13123:S3:E0:b8000:a1;-1;0:L13:q99:Q2256:nAntenna+3&profile=&stid=751676866
+#EXTINF:0,Telenuovo-Verona @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i130:DDvbT:f650000:mofdm:N8572:T13123:S4:E1:b8000:a1;-1;0:L292:q99:Q2256:nTelenuovo-Verona&profile=&stid=751676866
+#EXTINF:0,Telenuovo 117 @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i131:DDvbT:f650000:mofdm:N8572:T13123:S5:E0:b8000:a1;-1;0:L117:q99:Q2256:nTelenuovo+117&profile=&stid=751676866
+#EXTINF:0,Telenuovo-Padova @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i132:DDvbT:f650000:mofdm:N8572:T13123:S6:E1:b8000:a1;-1;0:L11:q99:Q2256:nTelenuovo-Padova&profile=&stid=751676866
+#EXTINF:0,Company-TV @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i133:DDvbT:f650000:mofdm:N8572:T13123:S7:E0:b8000:a1;-1;0:L119:q99:Q2256:nCompany-TV&profile=&stid=751676866
+#EXTINF:0,ITV-Italia @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i134:DDvbT:f650000:mofdm:N8572:T13123:S8:E0:b8000:a1;-1;0:L165:q99:Q2256:nITV-Italia&profile=&stid=751676866
+#EXTINF:0,TeleChiara @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1712
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i135:DDvbT:f650000:mofdm:N8572:T13123:S1712:E1:b8000:a1;-1;0:L14:q99:Q2256:nTeleChiara&profile=&stid=751676866
+#EXTINF:0,INFO TV @ 650 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51202
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i136:DDvbT:f650000:mofdm:N8572:T13123:S51202:E0:b8000:a1;-1;0:L85:q99:Q2256:nINFO+TV&profile=&stid=751676866
+#EXTINF:0,Deejay Tv - NOVE @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i137:DDvbT:f658000:mofdm:N8572:T31000:S1:E0:b8000:a1;-1;0:L9:q99:Q2272:nDeejay+Tv+-+NOVE&profile=&stid=751676866
+#EXTINF:0,cielo @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i138:DDvbT:f658000:mofdm:N8572:T31000:S2:E0:b8000:a1;-1;0:L26:q99:Q2272:ncielo&profile=&stid=751676866
+#EXTINF:0,Paramount Channel @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i139:DDvbT:f658000:mofdm:N8572:T31000:S3:E0:b8000:a1;-1;0:L27:q99:Q2272:nParamount+Channel&profile=&stid=751676866
+#EXTINF:0,RadioItaliaTV @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i140:DDvbT:f658000:mofdm:N8572:T31000:S4:E0:b8000:a1;-1;0:L70:q99:Q2272:nRadioItaliaTV&profile=&stid=751676866
+#EXTINF:0,Sky TG24 @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i141:DDvbT:f658000:mofdm:N8572:T31000:S5:E0:b8000:a1;-1;0:L50:q99:Q2272:nSky+TG24&profile=&stid=751676866
+#EXTINF:0,Deejay Tv - NOVE @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=20
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i142:DDvbT:f658000:mofdm:N8572:T31000:S20:E0:b8000:a1;-1;0:L109:q99:Q2272:nDeejay+Tv+-+NOVE&profile=&stid=751676866
+#EXTINF:0,FOCUS @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=25
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i143:DDvbT:f658000:mofdm:N8572:T31000:S25:E0:b8000:a1;-1;0:L56:q99:Q2272:nFOCUS&profile=&stid=751676866
+#EXTINF:0,Winga TV @ 658 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=161
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i144:DDvbT:f658000:mofdm:N8572:T31000:S161:E0:b8000:a1;-1;0:L63:q99:Q2272:nWinga+TV&profile=&stid=751676866
+#EXTINF:0,TELEARENA @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i145:DDvbT:f674000:mofdm:N8572:T13107:S1:E3:b8000:a1;-1;0:L16:q99:Q2112:nTELEARENA&profile=&stid=751676866
+#EXTINF:0,TELEMANTOVA @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i146:DDvbT:f674000:mofdm:N8572:T13107:S2:E3:b8000:a1;-1;0:L619:q99:Q2112:nTELEMANTOVA&profile=&stid=751676866
+#EXTINF:0,TELEARENA SPORT @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i147:DDvbT:f674000:mofdm:N8572:T13107:S4:E3:b8000:a1;-1;0:L90:q99:Q2112:nTELEARENA+SPORT&profile=&stid=751676866
+#EXTINF:0,TELEARENA NEWS @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=50
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i148:DDvbT:f674000:mofdm:N8572:T13107:S50:E1:b8000:a1;-1;0:L646:q99:Q2112:nTELEARENA+NEWS&profile=&stid=751676866
+#EXTINF:0,TELEARENA PLUS @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i149:DDvbT:f674000:mofdm:N8572:T13107:S51:E1:b8000:a1;-1;0:L214:q99:Q2112:nTELEARENA+PLUS&profile=&stid=751676866
+#EXTINF:0,eden TV @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=111
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i150:DDvbT:f674000:mofdm:N8572:T13107:S111:E1:b8000:a1;-1;0:L86:q99:Q2112:neden+TV&profile=&stid=751676866
+#EXTINF:0,eden 2 @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=444
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i151:DDvbT:f674000:mofdm:N8572:T13107:S444:E1:b8000:a1;-1;0:L197:q99:Q2112:neden+2&profile=&stid=751676866
+#EXTINF:0,NEW GENERATION TV @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=666
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i152:DDvbT:f674000:mofdm:N8572:T13107:S666:E1:b8000:a1;-1;0:L691:q99:Q2112:nNEW+GENERATION+TV&profile=&stid=751676866
+#EXTINF:0,eden 5 @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=777
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i153:DDvbT:f674000:mofdm:N8572:T13107:S777:E1:b8000:a1;-1;0:L692:q99:Q2112:neden+5&profile=&stid=751676866
+#EXTINF:0,TELEPACE @ 674 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=888
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i154:DDvbT:f674000:mofdm:N8572:T13107:S888:E1:b8000:a1;-1;0:L187:q99:Q2112:nTELEPACE&profile=&stid=751676866
+#EXTINF:0,VERO @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=10
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i155:DDvbT:f682000:mofdm:N29:T516:S10:E0:b8000:a1;-1;0:L137:q99:Q2272:nVERO&profile=&stid=751676866
+#EXTINF:0,ROVI @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=14
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i156:DDvbT:f682000:mofdm:N29:T516:S14:E0:b8000:a1;-1;0:q99:Q2272:nROVI&profile=&stid=751676866
+#EXTINF:0,GIALLO @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=16
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i157:DDvbT:f682000:mofdm:N29:T516:S16:E0:b8000:a1;-1;0:L38:q99:Q2272:nGIALLO&profile=&stid=751676866
+#EXTINF:0,RTL 102.5 TV @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=21
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i158:DDvbT:f682000:mofdm:N29:T516:S21:E0:b8000:a1;-1;0:L36:q99:Q2272:nRTL+102.5+TV&profile=&stid=751676866
+#EXTINF:0,HSE24 @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=22
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i159:DDvbT:f682000:mofdm:N29:T516:S22:E0:b8000:a1;-1;0:L37:q99:Q2272:nHSE24&profile=&stid=751676866
+#EXTINF:0,Real Time @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=44
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i160:DDvbT:f682000:mofdm:N29:T516:S44:E0:b8000:a1;-1;0:L31:q99:Q2272:nReal+Time&profile=&stid=751676866
+#EXTINF:0,DMAX @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=50
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i161:DDvbT:f682000:mofdm:N29:T516:S50:E0:b8000:a1;-1;0:L52:q99:Q2272:nDMAX&profile=&stid=751676866
+#EXTINF:0,Entertainment Fact @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=90
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i162:DDvbT:f682000:mofdm:N29:T516:S90:E0:b8000:a1;-1;0:L234:q99:Q2272:nEntertainment+Fact&profile=&stid=751676866
+#EXTINF:0,Super! @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=106
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i163:DDvbT:f682000:mofdm:N29:T516:S106:E0:b8000:a1;-1;0:L47:q99:Q2272:nSuper%21&profile=&stid=751676866
+#EXTINF:0,NUVOLARI @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=200
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i164:DDvbT:f682000:mofdm:N29:T516:S200:E0:b8000:a1;-1;0:q99:Q2272:nNUVOLARI&profile=&stid=751676866
+#EXTINF:0,CUBOVISION @ 682 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=612
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i165:DDvbT:f682000:mofdm:N29:T516:S612:E0:b8000:a1;-1;0:L999:q99:Q2272:nCUBOVISION&profile=&stid=751676866
+#EXTINF:0,SUPERTENNIS @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=40
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i166:DDvbT:f690000:mofdm:N29:T512:S40:E0:b8000:a1;-1;0:L64:q99:Q2272:nSUPERTENNIS&profile=&stid=751676866
+#EXTINF:0,MTV MUSIC @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=120
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i167:DDvbT:f690000:mofdm:N29:T512:S120:E0:b8000:a1;-1;0:L67:q99:Q2272:nMTV+MUSIC&profile=&stid=751676866
+#EXTINF:0,MTV MUSIC @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=121
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i168:DDvbT:f690000:mofdm:N29:T512:S121:E0:b8000:a1;-1;0:L267:q99:Q2272:nMTV+MUSIC&profile=&stid=751676866
+#EXTINF:0,MTV MUSIC @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=123
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i169:DDvbT:f690000:mofdm:N29:T512:S123:E0:b8000:a1;-1;0:L567:q99:Q2272:nMTV+MUSIC&profile=&stid=751676866
+#EXTINF:0,LA7 @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=140
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i170:DDvbT:f690000:mofdm:N29:T512:S140:E0:b8000:a1;-1;0:L107:q99:Q2272:nLA7&profile=&stid=751676866
+#EXTINF:0,frisbee @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=146
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i171:DDvbT:f690000:mofdm:N29:T512:S146:E0:b8000:a1;-1;0:L44:q99:Q2272:nfrisbee&profile=&stid=751676866
+#EXTINF:0,TV8 @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=150
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i172:DDvbT:f690000:mofdm:N29:T512:S150:E0:b8000:a1;-1;0:L108:q99:Q2272:nTV8&profile=&stid=751676866
+#EXTINF:0,K2 @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=151
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i173:DDvbT:f690000:mofdm:N29:T512:S151:E0:b8000:a1;-1;0:L41:q99:Q2272:nK2&profile=&stid=751676866
+#EXTINF:0,LA7 @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=613
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i174:DDvbT:f690000:mofdm:N29:T512:S613:E0:b8000:a1;-1;0:L7:q99:Q2272:nLA7&profile=&stid=751676866
+#EXTINF:0,TV8 @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=614
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i175:DDvbT:f690000:mofdm:N29:T512:S614:E0:b8000:a1;-1;0:L8:q99:Q2272:nTV8&profile=&stid=751676866
+#EXTINF:0,TV8 @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=615
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i176:DDvbT:f690000:mofdm:N29:T512:S615:E0:b8000:a1;-1;0:L508:q99:Q2272:nTV8&profile=&stid=751676866
+#EXTINF:0,LA7D @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=617
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i177:DDvbT:f690000:mofdm:N29:T512:S617:E0:b8000:a1;-1;0:L29:q99:Q2272:nLA7D&profile=&stid=751676866
+#EXTINF:0,LA7D @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=618
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i178:DDvbT:f690000:mofdm:N29:T512:S618:E0:b8000:a1;-1;0:L229:q99:Q2272:nLA7D&profile=&stid=751676866
+#EXTINF:0,La7ondemand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=623
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i179:DDvbT:f690000:mofdm:N29:T512:S623:E0:b8000:a1;-1;0:L807:q99:Q2272:nLa7ondemand&profile=&stid=751676866
+#EXTINF:0,La7 News On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=624
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i180:DDvbT:f690000:mofdm:N29:T512:S624:E0:b8000:a1;-1;0:L907:q99:Q2272:nLa7+News+On+Demand&profile=&stid=751676866
+#EXTINF:0,TV8 News On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=625
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i181:DDvbT:f690000:mofdm:N29:T512:S625:E0:b8000:a1;-1;0:L908:q99:Q2272:nTV8+News+On+Demand&profile=&stid=751676866
+#EXTINF:0,TV8 On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=626
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i182:DDvbT:f690000:mofdm:N29:T512:S626:E0:b8000:a1;-1;0:L808:q99:Q2272:nTV8+On+Demand&profile=&stid=751676866
+#EXTINF:0,La7D On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=627
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i183:DDvbT:f690000:mofdm:N29:T512:S627:E0:b8000:a1;-1;0:L829:q99:Q2272:nLa7D+On+Demand&profile=&stid=751676866
+#EXTINF:0,La7 Servizi On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=628
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i184:DDvbT:f690000:mofdm:N29:T512:S628:E0:b8000:a1;-1;0:L929:q99:Q2272:nLa7+Servizi+On+Demand&profile=&stid=751676866
+#EXTINF:0,MTV+ On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=629
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i185:DDvbT:f690000:mofdm:N29:T512:S629:E0:b8000:a1;-1;0:L867:q99:Q2272:nMTV%2b+On+Demand&profile=&stid=751676866
+#EXTINF:0,MTV MUSIC On Demand @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=630
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i186:DDvbT:f690000:mofdm:N29:T512:S630:E0:b8000:a1;-1;0:L967:q99:Q2272:nMTV+MUSIC+On+Demand&profile=&stid=751676866
+#EXTINF:0,PORTALE SERVIZI TELECOM @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=631
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i187:DDvbT:f690000:mofdm:N29:T512:S631:E0:b8000:a1;-1;0:L998:q99:Q2272:nPORTALE+SERVIZI+TELECOM&profile=&stid=751676866
+#EXTINF:0,PIU' SERVIZI @ 690 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=632
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i188:DDvbT:f690000:mofdm:N29:T512:S632:E0:b8000:a1;-1;0:L888:q99:Q2272:nPIU%27+SERVIZI&profile=&stid=751676866
+#EXTINF:0,Rete4 @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4004
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i189:DDvbT:f698000:mofdm:N272:T940:S4004:E1:b8000:a1;-1;0:L4:q99:Q2288:nRete4&profile=&stid=751676866
+#EXTINF:0,Canale5 @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4005
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i190:DDvbT:f698000:mofdm:N272:T940:S4005:E1:b8000:a1;-1;0:L5:q99:Q2288:nCanale5&profile=&stid=751676866
+#EXTINF:0,Italia1 @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4006
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i191:DDvbT:f698000:mofdm:N272:T940:S4006:E1:b8000:a1;-1;0:L6:q99:Q2288:nItalia1&profile=&stid=751676866
+#EXTINF:0,La 5 @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4013
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i192:DDvbT:f698000:mofdm:N272:T940:S4013:E1:b8000:a1;-1;0:L30:q99:Q2288:nLa+5&profile=&stid=751676866
+#EXTINF:0,TGCOM24 @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4014
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i193:DDvbT:f698000:mofdm:N272:T940:S4014:E1:b8000:a1;-1;0:L51:q99:Q2288:nTGCOM24&profile=&stid=751676866
+#EXTINF:0,Iris @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4015
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i194:DDvbT:f698000:mofdm:N272:T940:S4015:E1:b8000:a1;-1;0:L22:q99:Q2288:nIris&profile=&stid=751676866
+#EXTINF:0,Mediaset On Demand @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4105
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i195:DDvbT:f698000:mofdm:N272:T940:S4105:E1:b8000:a1;-1;0:L805:q99:Q2288:nMediaset+On+Demand&profile=&stid=751676866
+#EXTINF:0,Infinity @ 698 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4199
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i196:DDvbT:f698000:mofdm:N272:T940:S4199:E1:b8000:a1;-1;0:L899:q99:Q2288:nInfinity&profile=&stid=751676866
+#EXTINF:0,Sportitalia @ 706 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7190
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i197:DDvbT:f706000:mofdm:N272:T900:S7190:E0:b8000:a1;-1;0:L153:q99:Q2320:nSportitalia&profile=&stid=751676866
+#EXTINF:0,Sportitalia @ 706 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7191
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i198:DDvbT:f706000:mofdm:N272:T900:S7191:E0:b8000:a1;-1;0:L60:q99:Q2320:nSportitalia&profile=&stid=751676866
+#EXTINF:0,PADRE PIO TV @ 706 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7192
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i199:DDvbT:f706000:mofdm:N272:T900:S7192:E0:b8000:a1;-1;0:L145:q99:Q2320:nPADRE+PIO+TV&profile=&stid=751676866
+#EXTINF:0,Telenuovo Padova @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i200:DDvbT:f714000:mofdm:N134:T734:S1:E1:b8000:a1;-1;0:L11:q100:Q2368:nTelenuovo+Padova&profile=&stid=751676866
+#EXTINF:0,Telenuovo 117 @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i201:DDvbT:f714000:mofdm:N134:T734:S2:E0:b8000:a1;-1;0:L117:q100:Q2368:nTelenuovo+117&profile=&stid=751676866
+#EXTINF:0,Telenuovo Verona @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i202:DDvbT:f714000:mofdm:N134:T734:S3:E1:b8000:a1;-1;0:L292:q100:Q2368:nTelenuovo+Verona&profile=&stid=751676866
+#EXTINF:0,a3 - TVision @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i203:DDvbT:f714000:mofdm:N134:T734:S4:E0:b8000:a1;-1;0:L13:q100:Q2368:na3+-+TVision&profile=&stid=751676866
+#EXTINF:0,Company TV @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i204:DDvbT:f714000:mofdm:N134:T734:S5:E0:b8000:a1;-1;0:L119:q100:Q2368:nCompany+TV&profile=&stid=751676866
+#EXTINF:0,ITV Italia @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i205:DDvbT:f714000:mofdm:N134:T734:S6:E0:b8000:a1;-1;0:L165:q100:Q2368:nITV+Italia&profile=&stid=751676866
+#EXTINF:0,TVAVICENZA @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i206:DDvbT:f714000:mofdm:N134:T734:S7:E1:b8000:a1;-1;0:L10:q100:Q2368:nTVAVICENZA&profile=&stid=751676866
+#EXTINF:0,TELECHIARA @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i207:DDvbT:f714000:mofdm:N134:T734:S8:E1:b8000:a1;-1;0:L14:q100:Q2368:nTELECHIARA&profile=&stid=751676866
+#EXTINF:0,Info TV @ 714 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=9
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i208:DDvbT:f714000:mofdm:N134:T734:S9:E0:b8000:a1;-1;0:L85:q100:Q2368:nInfo+TV&profile=&stid=751676866
+#EXTINF:0,Premium Online @ 722 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=127
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i209:DDvbT:f722000:mofdm:N272:T901:S127:E1:b8000:a1;-1;0:L399:q99:Q2192:nPremium+Online&profile=&stid=751676866
+#EXTINF:0,Premium Play @ 722 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=128
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i210:DDvbT:f722000:mofdm:N272:T901:S128:E1:b8000:a1;-1;0:L310:q99:Q2192:nPremium+Play&profile=&stid=751676866
+#EXTINF:0,CANALE ITALIA 83 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i211:DDvbT:f730000:mofdm:N8572:T18384:S1:E0:b8000:a1;-1;0:L83:q100:Q2400:nCANALE+ITALIA+83&profile=&stid=751676866
+#EXTINF:0,CANALE ITALIA 84 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i212:DDvbT:f730000:mofdm:N8572:T18384:S2:E0:b8000:a1;-1;0:L84:q100:Q2400:nCANALE+ITALIA+84&profile=&stid=751676866
+#EXTINF:0,ITALIA 156 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i213:DDvbT:f730000:mofdm:N8572:T18384:S3:E0:b8000:a1;-1;0:L156:q100:Q2400:nITALIA+156&profile=&stid=751676866
+#EXTINF:0,CANTANDO BALLANDO @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i214:DDvbT:f730000:mofdm:N8572:T18384:S4:E0:b8000:a1;-1;0:L161:q100:Q2400:nCANTANDO+BALLANDO&profile=&stid=751676866
+#EXTINF:0,CANALE ITALIA 5 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i215:DDvbT:f730000:mofdm:N8572:T18384:S5:E0:b8000:a1;-1;0:L150:q100:Q2400:nCANALE+ITALIA+5&profile=&stid=751676866
+#EXTINF:0,ITALIA 121 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i216:DDvbT:f730000:mofdm:N8572:T18384:S6:E0:b8000:a1;-1;0:L121:q100:Q2400:nITALIA+121&profile=&stid=751676866
+#EXTINF:0,FRANCE 24 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i217:DDvbT:f730000:mofdm:N8572:T18384:S7:E0:b8000:a1;-1;0:L141:q100:Q2400:nFRANCE+24&profile=&stid=751676866
+#EXTINF:0,ITALIA 160 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i218:DDvbT:f730000:mofdm:N8572:T18384:S8:E0:b8000:a1;-1;0:L160:q100:Q2400:nITALIA+160&profile=&stid=751676866
+#EXTINF:0,ITALIA TV @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=9
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i219:DDvbT:f730000:mofdm:N8572:T18384:S9:E0:b8000:a1;-1;0:L179:q100:Q2400:nITALIA+TV&profile=&stid=751676866
+#EXTINF:0,TOP ITALIA @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=10
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i220:DDvbT:f730000:mofdm:N8572:T18384:S10:E0:b8000:a1;-1;0:L236:q100:Q2400:nTOP+ITALIA&profile=&stid=751676866
+#EXTINF:0,ITALIA 126 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=11
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i221:DDvbT:f730000:mofdm:N8572:T18384:S11:E0:b8000:a1;-1;0:L126:q100:Q2400:nITALIA+126&profile=&stid=751676866
+#EXTINF:0,ITALIA 135 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=12
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i222:DDvbT:f730000:mofdm:N8572:T18384:S12:E0:b8000:a1;-1;0:L135:q100:Q2400:nITALIA+135&profile=&stid=751676866
+#EXTINF:0,ITALIA 159 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=13
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i223:DDvbT:f730000:mofdm:N8572:T18384:S13:E0:b8000:a1;-1;0:L159:q100:Q2400:nITALIA+159&profile=&stid=751676866
+#EXTINF:0,ITALIA 142 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=14
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i224:DDvbT:f730000:mofdm:N8572:T18384:S14:E0:b8000:a1;-1;0:L142:q100:Q2400:nITALIA+142&profile=&stid=751676866
+#EXTINF:0,ITALIA 136 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=17
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i225:DDvbT:f730000:mofdm:N8572:T18384:S17:E0:b8000:a1;-1;0:L136:q100:Q2400:nITALIA+136&profile=&stid=751676866
+#EXTINF:0,ITALIA 53 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=20
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i226:DDvbT:f730000:mofdm:N8572:T18384:S20:E0:b8000:a1;-1;0:L53:q100:Q2400:nITALIA+53&profile=&stid=751676866
+#EXTINF:0,ITALIA 127 @ 730 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=21
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i227:DDvbT:f730000:mofdm:N8572:T18384:S21:E0:b8000:a1;-1;0:L127:q100:Q2400:nITALIA+127&profile=&stid=751676866
+#EXTINF:0,m2o Tv @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i228:DDvbT:f738000:mofdm:N8572:T31002:S7:E0:b8000:a1;-1;0:L158:q99:Q2144:nm2o+Tv&profile=&stid=751676866
+#EXTINF:0,RadioCapitalTiVù @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i229:DDvbT:f738000:mofdm:N8572:T31002:S8:E0:b8000:a1;-1;0:L162:q99:Q2144:nRadioCapitalTiV%c3%b9&profile=&stid=751676866
+#EXTINF:0,Juwelo @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=15
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i230:DDvbT:f738000:mofdm:N8572:T31002:S15:E0:b8000:a1;-1;0:L133:q99:Q2144:nJuwelo&profile=&stid=751676866
+#EXTINF:0,CHANNEL 24 @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=23
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i231:DDvbT:f738000:mofdm:N8572:T31002:S23:E0:b8000:a1;-1;0:L130:q99:Q2144:nCHANNEL+24&profile=&stid=751676866
+#EXTINF:0,Onda Italiana @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=26
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i232:DDvbT:f738000:mofdm:N8572:T31002:S26:E0:b8000:a1;-1;0:L69:q99:Q2144:nOnda+Italiana&profile=&stid=751676866
+#EXTINF:0,RETE ITALIA @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=31
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i233:DDvbT:f738000:mofdm:N8572:T31002:S31:E0:b8000:a1;-1;0:L131:q99:Q2144:nRETE+ITALIA&profile=&stid=751676866
+#EXTINF:0,LA 4 ITALIA @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=32
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i234:DDvbT:f738000:mofdm:N8572:T31002:S32:E0:b8000:a1;-1;0:L129:q99:Q2144:nLA+4+ITALIA&profile=&stid=751676866
+#EXTINF:0,GOLD TV ITALIA @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=33
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i235:DDvbT:f738000:mofdm:N8572:T31002:S33:E0:b8000:a1;-1;0:L128:q99:Q2144:nGOLD+TV+ITALIA&profile=&stid=751676866
+#EXTINF:0,ITALIA + @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=34
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i236:DDvbT:f738000:mofdm:N8572:T31002:S34:E0:b8000:a1;-1;0:L132:q99:Q2144:nITALIA+%2b&profile=&stid=751676866
+#EXTINF:0,LINEA ITALIA @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=35
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i237:DDvbT:f738000:mofdm:N8572:T31002:S35:E0:b8000:a1;-1;0:L140:q99:Q2144:nLINEA+ITALIA&profile=&stid=751676866
+#EXTINF:0,AIR ITALIA @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=37
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i238:DDvbT:f738000:mofdm:N8572:T31002:S37:E0:b8000:a1;-1;0:L138:q99:Q2144:nAIR+ITALIA&profile=&stid=751676866
+#EXTINF:0,AIR TV @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=38
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i239:DDvbT:f738000:mofdm:N8572:T31002:S38:E0:b8000:a1;-1;0:L237:q99:Q2144:nAIR+TV&profile=&stid=751676866
+#EXTINF:0,TOP CALCIO @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=39
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i240:DDvbT:f738000:mofdm:N8572:T31002:S39:E0:b8000:a1;-1;0:L62:q99:Q2144:nTOP+CALCIO&profile=&stid=751676866
+#EXTINF:0,LaTV @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=40
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i241:DDvbT:f738000:mofdm:N8572:T31002:S40:E0:b8000:a1;-1;0:L164:q99:Q2144:nLaTV&profile=&stid=751676866
+#EXTINF:0,Luci Rosse TV 1 @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=51
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i242:DDvbT:f738000:mofdm:N8572:T31002:S51:E0:b8000:a1;-1;0:L452:q99:Q2144:nLuci+Rosse+TV+1&profile=&stid=751676866
+#EXTINF:0,Luci Rosse TV 2 @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=52
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i243:DDvbT:f738000:mofdm:N8572:T31002:S52:E0:b8000:a1;-1;0:L453:q99:Q2144:nLuci+Rosse+TV+2&profile=&stid=751676866
+#EXTINF:0,Luci Rosse TV 3 @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=53
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i244:DDvbT:f738000:mofdm:N8572:T31002:S53:E0:b8000:a1;-1;0:L454:q99:Q2144:nLuci+Rosse+TV+3&profile=&stid=751676866
+#EXTINF:0,OK ITALIA TV1 @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=60
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i245:DDvbT:f738000:mofdm:N8572:T31002:S60:E0:b8000:a1;-1;0:L163:q99:Q2144:nOK+ITALIA+TV1&profile=&stid=751676866
+#EXTINF:0,SOS TELEVISION @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=95
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i246:DDvbT:f738000:mofdm:N8572:T31002:S95:E0:b8000:a1;-1;0:L147:q99:Q2144:nSOS+TELEVISION&profile=&stid=751676866
+#EXTINF:0,NUVOLARI @ 738 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=96
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i247:DDvbT:f738000:mofdm:N8572:T31002:S96:E0:b8000:a1;-1;0:L61:q99:Q2144:nNUVOLARI&profile=&stid=751676866
+#EXTINF:0,SUPERTENNIS @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=40
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i248:DDvbT:f746000:mofdm:N29:T514:S40:E0:b8000:a1;-1;0:q99:Q2256:nSUPERTENNIS&profile=&stid=751676866
+#EXTINF:0,SPLIT TV @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=50
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i249:DDvbT:f746000:mofdm:N29:T514:S50:E0:b8000:a1;-1;0:L59:q99:Q2256:nSPLIT+TV&profile=&stid=751676866
+#EXTINF:0,TOP CALCIO @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=62
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i250:DDvbT:f746000:mofdm:N29:T514:S62:E0:b8000:a1;-1;0:q99:Q2256:nTOP+CALCIO&profile=&stid=751676866
+#EXTINF:0,ALICE @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=70
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i251:DDvbT:f746000:mofdm:N29:T514:S70:E0:b8000:a1;-1;0:L221:q99:Q2256:nALICE&profile=&stid=751676866
+#EXTINF:0,MARCOPOLO @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=80
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i252:DDvbT:f746000:mofdm:N29:T514:S80:E0:b8000:a1;-1;0:L222:q99:Q2256:nMARCOPOLO&profile=&stid=751676866
+#EXTINF:0,ORLER TV @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=95
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i253:DDvbT:f746000:mofdm:N29:T514:S95:E0:b8000:a1;-1;0:L144:q99:Q2256:nORLER+TV&profile=&stid=751676866
+#EXTINF:0,Super! Provvisorio @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=106
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i254:DDvbT:f746000:mofdm:N29:T514:S106:E0:b8000:a1;-1;0:q99:Q2256:nSuper%21+Provvisorio&profile=&stid=751676866
+#EXTINF:0,MEDIATEXT.IT @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=110
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i255:DDvbT:f746000:mofdm:N29:T514:S110:E0:b8000:a1;-1;0:L166:q99:Q2256:nMEDIATEXT.IT&profile=&stid=751676866
+#EXTINF:0,ITALIA CHANNEL @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=111
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i256:DDvbT:f746000:mofdm:N29:T514:S111:E0:b8000:a1;-1;0:L123:q99:Q2256:nITALIA+CHANNEL&profile=&stid=751676866
+#EXTINF:0,PIANETA TV @ 746 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=112
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i257:DDvbT:f746000:mofdm:N29:T514:S112:E0:b8000:a1;-1;0:L251:q99:Q2256:nPIANETA+TV&profile=&stid=751676866
+#EXTINF:0,CAPRI STORE @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i258:DDvbT:f762000:mofdm:N8572:T57:S1:E1:b8000:a1;-1;0:L122:q99:Q2048:nCAPRI+STORE&profile=&stid=751676866
+#EXTINF:0,Retecapri @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i259:DDvbT:f762000:mofdm:N8572:T57:S2:E1:b8000:a1;-1;0:L20:q99:Q2048:nRetecapri&profile=&stid=751676866
+#EXTINF:0,RetecapriHD @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i260:DDvbT:f762000:mofdm:N8572:T57:S3:E1:b8000:a1;-1;0:L520:q99:Q2048:nRetecapriHD&profile=&stid=751676866
+#EXTINF:0,NekoTV @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i261:DDvbT:f762000:mofdm:N8572:T57:S4:E1:b8000:a1;-1;0:L45:q99:Q2048:nNekoTV&profile=&stid=751676866
+#EXTINF:0,Capri Casinò @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i262:DDvbT:f762000:mofdm:N8572:T57:S5:E1:b8000:a1;-1;0:L149:q99:Q2048:nCapri+Casin%c3%b2&profile=&stid=751676866
+#EXTINF:0,RETE 82 PLUS @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=82
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i263:DDvbT:f762000:mofdm:N8572:T57:S82:E1:b8000:a1;-1;0:L82:q99:Q2048:nRETE+82+PLUS&profile=&stid=751676866
+#EXTINF:0,MYTVHOME @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=101
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i264:DDvbT:f762000:mofdm:N8572:T57:S101:E0:b8000:a1;-1;0:L224:q99:Q2048:nMYTVHOME&profile=&stid=751676866
+#EXTINF:0,Retecapri2 @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=120
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i265:DDvbT:f762000:mofdm:N8572:T57:S120:E1:b8000:a1;-1;0:L120:q99:Q2048:nRetecapri2&profile=&stid=751676866
+#EXTINF:0,RadioCapriTelevisiON @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=163
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i266:DDvbT:f762000:mofdm:N8572:T57:S163:E1:b8000:a1;-1;0:L66:q99:Q2048:nRadioCapriTelevisiON&profile=&stid=751676866
+#EXTINF:0,CAPRI GOURMET @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=202
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i267:DDvbT:f762000:mofdm:N8572:T57:S202:E1:b8000:a1;-1;0:L55:q99:Q2048:nCAPRI+GOURMET&profile=&stid=751676866
+#EXTINF:0,CAPRI FASHION @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=247
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i268:DDvbT:f762000:mofdm:N8572:T57:S247:E1:b8000:a1;-1;0:L247:q99:Q2048:nCAPRI+FASHION&profile=&stid=751676866
+#EXTINF:0,MYTVLIFE @ 762 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=910
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i269:DDvbT:f762000:mofdm:N8572:T57:S910:E1:b8000:a1;-1;0:L223:q99:Q2048:nMYTVLIFE&profile=&stid=751676866
+#EXTINF:0,Canale Italia 6 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=1
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i270:DDvbT:f778000:mofdm:N8572:T77:S1:E0:b8000:a1;-1;0:L199:q100:Q2400:nCanale+Italia+6&profile=&stid=751676866
+#EXTINF:0,Italia 53 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=2
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i271:DDvbT:f778000:mofdm:N8572:T77:S2:E0:b8000:a1;-1;0:L53:q100:Q2400:nItalia+53&profile=&stid=751676866
+#EXTINF:0,Canale Italia 84 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=3
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i272:DDvbT:f778000:mofdm:N8572:T77:S3:E0:b8000:a1;-1;0:L84:q100:Q2400:nCanale+Italia+84&profile=&stid=751676866
+#EXTINF:0,Canale Italia 4 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=4
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i273:DDvbT:f778000:mofdm:N8572:T77:S4:E0:b8000:a1;-1;0:L648:q100:Q2400:nCanale+Italia+4&profile=&stid=751676866
+#EXTINF:0,Canale Italia 10 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=5
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i274:DDvbT:f778000:mofdm:N8572:T77:S5:E0:b8000:a1;-1;0:L650:q100:Q2400:nCanale+Italia+10&profile=&stid=751676866
+#EXTINF:0,Canale Italia @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=6
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i275:DDvbT:f778000:mofdm:N8572:T77:S6:E0:b8000:a1;-1;0:L96:q100:Q2400:nCanale+Italia&profile=&stid=751676866
+#EXTINF:0,Serenissima @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i276:DDvbT:f778000:mofdm:N8572:T77:S7:E0:b8000:a1;-1;0:L15:q100:Q2400:nSerenissima&profile=&stid=751676866
+#EXTINF:0,DTV @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=8
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i277:DDvbT:f778000:mofdm:N8572:T77:S8:E0:b8000:a1;-1;0:L98:q100:Q2400:nDTV&profile=&stid=751676866
+#EXTINF:0,Canale Italia 4 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=9
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i278:DDvbT:f778000:mofdm:N8572:T77:S9:E0:b8000:a1;-1;0:L172:q100:Q2400:nCanale+Italia+4&profile=&stid=751676866
+#EXTINF:0,Canale Italia 2 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=10
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i279:DDvbT:f778000:mofdm:N8572:T77:S10:E0:b8000:a1;-1;0:L282:q100:Q2400:nCanale+Italia+2&profile=&stid=751676866
+#EXTINF:0,Canale Italia @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=11
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i280:DDvbT:f778000:mofdm:N8572:T77:S11:E0:b8000:a1;-1;0:L143:q100:Q2400:nCanale+Italia&profile=&stid=751676866
+#EXTINF:0,Canale Italia 3 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=12
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i281:DDvbT:f778000:mofdm:N8572:T77:S12:E0:b8000:a1;-1;0:L154:q100:Q2400:nCanale+Italia+3&profile=&stid=751676866
+#EXTINF:0,Canale Italia 6 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=13
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i282:DDvbT:f778000:mofdm:N8572:T77:S13:E0:b8000:a1;-1;0:L152:q100:Q2400:nCanale+Italia+6&profile=&stid=751676866
+#EXTINF:0,Canale Italia 83 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=14
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i283:DDvbT:f778000:mofdm:N8572:T77:S14:E0:b8000:a1;-1;0:L83:q100:Q2400:nCanale+Italia+83&profile=&stid=751676866
+#EXTINF:0,DTV @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=15
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i284:DDvbT:f778000:mofdm:N8572:T77:S15:E0:b8000:a1;-1;0:L155:q100:Q2400:nDTV&profile=&stid=751676866
+#EXTINF:0,Canale Italia 4 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=16
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i285:DDvbT:f778000:mofdm:N8572:T77:S16:E0:b8000:a1;-1;0:L284:q100:Q2400:nCanale+Italia+4&profile=&stid=751676866
+#EXTINF:0,Canale Italia 5 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=18
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i286:DDvbT:f778000:mofdm:N8572:T77:S18:E0:b8000:a1;-1;0:L649:q100:Q2400:nCanale+Italia+5&profile=&stid=751676866
+#EXTINF:0,Canale Italia 3 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=21
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i287:DDvbT:f778000:mofdm:N8572:T77:S21:E0:b8000:a1;-1;0:L296:q100:Q2400:nCanale+Italia+3&profile=&stid=751676866
+#EXTINF:0,Canale Italia 5 @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=22
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i288:DDvbT:f778000:mofdm:N8572:T77:S22:E0:b8000:a1;-1;0:L150:q100:Q2400:nCanale+Italia+5&profile=&stid=751676866
+#EXTINF:0,Nitegate Promo @ 778 MHz
+#EXTVLCOPT:http-caching=800
+#EXTVLCOPT:program=7005
+http://User:91576cbf171986154e523305a69c79d3@192.168.2.6:7799/basicauth/TVC/Preview?channel=i289:DDvbT:f778000:mofdm:N8572:T77:S7005:E0:b8000:a1;-1;0:L401:q100:Q2400:nNitegate+Promo&profile=&stid=751676866
